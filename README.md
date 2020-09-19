@@ -126,5 +126,3 @@ The best performance was achieved by Double DQN where the reward of +13 was achi
 | ------------------------------------------ | ---------------------------------- | --------------------------------------------------- |
 | ![double-dqn](results/double_dqn_new_scores.png) | ![dqn](results/dqn_new_scores.png) | ![dueling double dqn](results/duelling_dqn_new_scores.png) |
 
-# Udacity_DeepRL_Project1
-# Udacity_DeepRL_Project1
